@@ -1,0 +1,31 @@
+.wrap {
+    padding-bottom: 20rem;
+}
+
+.container {
+    display: flex;
+}
+
+.poster {
+    width: 20rem;
+    height: 30rem;
+    object-fit: cover;
+}
+
+.contentbody{
+    padding: 3rem;
+}
+
+.mtitle{
+    font-size: 3rem;
+    color: bisque;
+}
+
+.myear{
+    padding-left: 1rem;
+    font-size: 2rem;
+}
+
+.mgenre {
+    font-size: 1.3rem;
+}

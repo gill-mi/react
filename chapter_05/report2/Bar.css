@@ -1,0 +1,8 @@
+.bar{
+    font-size: 4rem;
+    color: white;
+    background-color: blueviolet;
+    padding: 2rem;
+    position: sticky;
+    top:0;
+}
